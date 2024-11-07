@@ -1,5 +1,5 @@
 # Average-Attention-Infer
-The code and results in paper Enhancing Semantic Consistency in LLMs: Averaging Attention Weight to Eliminate Positional Bias
+The code and results in paper \textit{Consistent Focus: Mitigating Permutation Bias in Large Language Models through Attention Weight Averaging}.
 
 
 
