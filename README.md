@@ -1,5 +1,5 @@
 # Average-Attention-Infer
-The code and results in paper \textit{Consistent Focus: Mitigating Permutation Bias in Large Language Models through Attention Weight Averaging}.
+The code and results in paper **Consistent Focus: Mitigating Permutation Bias in Large Language Models through Attention Weight Averaging**.
 
 
 
